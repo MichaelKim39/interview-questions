@@ -1,0 +1,60 @@
+08.Aug.20
+Grill the question - make sure you 100% understand it
+Use all the information provided in the question statement
+Use a big example and run through it entirely to understand it
+If you are stuck simply tell them which part you are stuck on and what you are thinking
+
+15.Aug.20
+Keep runtime simple for better explanation, don't always need to mention constants or sums
+Account for edge cases when testing, repeated values, no values etc.
+Make test example different from provided and sufficiently large
+Don't talk less, take time to ask questions if you need
+There is time to answer, take your time
+Write function prototype first!
+Test through lines of code not idea in head
+Keep names different sounding for ease of explanation!
+
+29.Aug.20
+Don't just talk, think it through and speak logically
+Draw it out and use a diagram while talking
+Run through the solution methodology always
+Have confidence when explaining, have structure / set process
+Have around 30mins for a question usually
+Talk with confidence always, pause but don't hesitate - "Initial strategy vs off top of my head"
+Don't make early promises to improve efficiency before solving!
+Use underscores for naming visibility
+
+04.Sep.20
+Try not to stutter
+Think carefully and speak with pauses
+Finish ideas then build on it - sounds more fluent than constantly revising on the go
+Remember it is actually good to start out with a BAD idea then build on it - start with something terrible
+Don't ask yourself questions if you can help it, take a moment to think and make a statement or just say you are thinking
+Repeat the process and explain but each time you can state it a bit more simply
+
+05.Sep.20
+Draw stacks as arrays (horizontally) because that's how they look in the code
+Actually aim and draw carefully when doing diagrams for your own sake!!!
+When practicing it is best to write descriptive comments for reference in future
+
+05.Sep.20
+Add comments in function first
+If you can't get optimal, just implement brute force but do it quickly and well
+Companies employ calm and confident people too
+
+12.Sep.20
+Be calm and speak slowly
+Try not to hesitate / stutter / show signs of confusion when you speak
+"Define the inputs and outputs for a better idea of the question"
+
+15.Sep.20
+Try typing out your thought process, it could help with first interviews - but need to practice without typing for onsites
+Better to just use paint and draw accurately and quickly
+
+16.Sep.20
+Think and make it 100% clear before programming!!! Or at-least 80-90% clear logically
+
+02.Oct.20
+When stuck - define exactly what you are stuck on. 
+Break down everything you are aware of.
+Resort to fundamentals, work from foundations up to the question

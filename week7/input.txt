@@ -1,0 +1,9 @@
+Apple
+One
+
+Apple
+TWO
+TWO
+
+APPLE
+three

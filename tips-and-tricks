@@ -1,0 +1,18 @@
+String And Arrays:
+Number of substrings = n * (n+1) / 2
+Substrings are contiguous unlike subsequences
+
+Trees:
+Binary tree array representation - For node at index i, left and right children are at 2p+1 and 2p+2 respectively
+
+Hashmaps:
+Fast lookup and insertion
+
+Queue:
+Python dequeue uses .popLeft and .append (Right)
+
+Python:
+Python is pass by OBJECT reference!!! 
+Do not confuse with JavaScript which is not always pass by reference
+Python sorted() function is a inbuilt function implementing timsort - a hybrid between merge and insertion sort. It's runtime is nlogn
+Python ord() function gets unicode of characters. 
