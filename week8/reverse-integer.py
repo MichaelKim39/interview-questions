@@ -43,20 +43,28 @@ class Solution:
     #     reverse = int(str(sign * x)[::-1])
     #     return reverse
 
+    # def reverse(self, x: int) -> int:
+    #     num = str(x)
+    #     if x < 0:
+    #         x = int(num[0] + num[1:][::-1])
+    #     if x == 0:
+    #         return 1
+    #     if x > 0:
+    #         x = int(num[::-1])
+    #     return x if -2147483648 <= x <= 2147483647 else 0
+
     def reverse(self, x: int) -> int:
-        num = str(x)
-        if x < 0:
-            x = int(num[0] + num[1:][::-1])
-        if x == 0:
-            return 1
-        if x > 0:
-            x = int(num[::-1])
-        return x if -2147483648 <= x <= 2147483647 else 0
+        sign = (x > 0) - (x < 0)
+        # Force positive, cast from reversed string back to int
+        # Int casting reversed string removes prepending zeroes
+        rev = int(str(x * sign)[::-1])
+        # Add back sign and check range
+        return sign * rev if (-2 ** 31 <= x <= ((2 ** 31) - 1)) else 0
 
 
 def main():
     solution = Solution()
-    print(solution.reverse(123456789))
+    print(solution.reverse(2100))
 
 
 if __name__ == "__main__":
