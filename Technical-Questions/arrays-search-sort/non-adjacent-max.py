@@ -1,4 +1,4 @@
-from typing import list
+from typing import List
 # https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/#:~:text=Max%20sum%20excluding%20the%20current,max%20of%20incl%20and%20excl.
 
 # INPUT - array of integers
